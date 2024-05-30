@@ -12,11 +12,11 @@ The Checksums are not unique, they are copies of other files within the file set
 Includes:
 
 Redearth 
-jojo__
-SFIII__
-SFIII: 2ND IMPACT__
-SFIII: 3RD STRIKE__
-SFIII: 4RD STRIKE__
+jojo\
+SFIII\
+SFIII: 2ND IMPACT\
+SFIII: 3RD STRIKE\
+SFIII: 4RD STRIKE\
 
 
 Please contact me if any of the ROMs are missing. I may update it or exclude them from the list of inclusions.
