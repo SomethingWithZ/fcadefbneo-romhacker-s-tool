@@ -16,7 +16,7 @@ jojo\
 SFIII\
 SFIII: 2ND IMPACT\
 SFIII: 3RD STRIKE\
-SFIII: 4RD STRIKE\
+SFIII: 4RD STRIKE
 
 Please contact me if any of the ROMs are missing. I may update it or exclude them from the list of inclusions.
 
