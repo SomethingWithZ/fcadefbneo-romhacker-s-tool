@@ -1,4 +1,4 @@
-# fcadefbneo-romhacker-s-tool
+# fcadefbneo-romhacker-tool
 IMPORTANT: THIS IS NOT A VERSION OFFICIALLY CREATED AND BACKED BY THE FIGHTCADE AND/OR FINALBURN NEO DEVELOPER TEAM. PROCEED WITH CAUTION.
 
 This build of FCADEFBNEO was made for exclusively CPS3 ROMHACKING purposes.
