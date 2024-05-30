@@ -3,7 +3,9 @@ IMPORTANT: THIS IS NOT A VERSION OFFICIALLY CREATED AND BACKED BY THE FIGHTCADE 
 
 This build of FCADEFBNEO was made for exclusively CPS3 ROMHACKING purposes.
 
-In order to set up this executable, place it in your Fightcade\emulator\fbneo directory.
+(Included debug mode for those who would want it.)
+
+In order to set up both or either executable, place it in your Fightcade\emulator\fbneo directory.
 
 The Checksums are not unique, they are copies of other files within the file set. Ignore the errors from the new file checks and proceed.
 
