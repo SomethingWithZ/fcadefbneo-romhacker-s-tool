@@ -18,7 +18,6 @@ SFIII: 2ND IMPACT\
 SFIII: 3RD STRIKE\
 SFIII: 4RD STRIKE\
 
-
 Please contact me if any of the ROMs are missing. I may update it or exclude them from the list of inclusions.
 
 It may be difficult to indicate whether or not the emulator is including the files.
